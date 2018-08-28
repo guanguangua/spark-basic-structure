@@ -104,7 +104,7 @@
                 <version>0.4.4</version>
                 <configuration>
                     <jdkVersion>1.8</jdkVersion>
-                    <appName>spark-heroku-example</appName>
+                    <appName>derek-webapp-2</appName>
                     <processTypes>
                         <!-- Tell Heroku how to launch your application -->
                         <web>java -jar ./target/spark-basic-structure-1.0-SNAPSHOT-jar-with-dependencies.jar</web>
